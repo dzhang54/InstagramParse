@@ -1,8 +1,8 @@
-# Project 6 - *InstaParse*
+# Project 6 - *InstagramParse*
 
 **InstaParse** is a photo sharing app using Parse as its backend.
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. How to allow user to choose filters.
-2. How to account for videos and pictures.
+1. Filters
+2. Autolayout
 
 ## Video Walkthrough 
 
@@ -46,7 +46,7 @@ No challenges have been encountered yet.
 
 ## License
 
-    Copyright [2016] [Sean Crenshaw]
+    Copyright [2016] [Daniel Zhang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
